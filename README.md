@@ -501,7 +501,7 @@ AI Engineer | Machine Learning Enthusiast | NLP Developer
 
 LinkedIn: https://www.linkedin.com/in/anandm2004/
 
-GitHub: https://github.com/your-github
+GitHub: https://github.com/Anandmaurya321/AI_Authorization_and_Stylometric_Detection
 
 ---
 
